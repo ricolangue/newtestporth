@@ -1,0 +1,25 @@
+Email Subject:	test (Online Form Testing)
+To: hjk
+Cc:	kjk, jhk and jjk
+
+Dear Valued Client,
+
+Please be informed that we will be conducting testings on your website's online forms. This is to confirm that your online forms are fully functioning.
+
+https://www.test.com
+
+To view all incoming emails submitted from the forms on your website, make sure to regularly check your Online Forms Database Panel. Your email kj will only be notified. Please see below for your access:
+
+jkkk
+Username: jkkk
+Password: jhk
+
+
+Sincerely,
+Proweaver, Inc.
+
+GIT File Path
+https://github.com/ricolangue/newtestportf.git
+
+Screenshot File Path
+https://s3.console.aws.amazon.com/s3/buckets/jk

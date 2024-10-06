@@ -1,0 +1,17 @@
+Client Name: test
+task_link=-jj
+website=https://www.test.com
+#==== START DATABASE =====
+db_link=kk
+db_username=hhhkk
+db_password=jkk
+#==== END DATABASE =====
+                     
+#==== START FTP =====
+ftp_hostname=jkjk
+ftp_username=jkjk
+ftp_password=khkj
+#==== END FTP =====
+                     
+#==== SCREENSHOT FILE PATH =====
+scrn_path=
